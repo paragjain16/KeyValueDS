@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<networkInfo>
+	 <serverAddr>192.17.11.15:3456</serverAddr>
+	 <serverAddr>192.17.11.10:3456</serverAddr>
+	 <serverAddr>192.17.11.50:3456</serverAddr>
+</networkInfo>
